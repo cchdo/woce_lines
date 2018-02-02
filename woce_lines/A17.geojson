@@ -1,0 +1,23 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        -50.5,
+        -31.7
+      ],
+      [
+        -47.60000000000002,
+        -33.7
+      ],
+      [
+        -44.69999999999999,
+        -35.7
+      ]
+    ]
+  },
+  "properties": {
+    "WHP_Section": "A17"
+  }
+}
